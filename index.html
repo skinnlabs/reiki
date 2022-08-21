@@ -34,6 +34,15 @@
   <script type="text/javascript">
   window.__WEBFLOW_CURRENCY_SETTINGS = {"currencyCode":"USD","$init":true,"symbol":"$","decimal":".","fractionDigits":2,"group":",","template":"{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}","hideDecimalForWholeNumbers":false};
   </script>
+
+<link rel="manifest" href="manifest.json" />
+
+<script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
+    
 </head>
 <body>
   <div data-collapse="medium" data-animation="default"
@@ -529,7 +538,7 @@
           sizes="120px" alt="" class="about-image">
           <div class="about-title-wrapper">
             <h6 class="caption-text">therapist</h6>
-            <h3>Lana Green</h3>
+            <h3>Cathy Eksteen/h3>
           </div>
         </div>
         <p><strong>Lorem ipsum dolor sit amet, consectetur
@@ -761,8 +770,8 @@
           "footer-link w-button">instagram</a>
         </div>
         <div class="text-block">
-          designed by <a href="http://mindblister.com/" class=
-          "link-color-1">mindblister</a>
+          Made by <a href="#" class=
+          "link-color-1">Mykle</a>
         </div>
       </div>
       <div class="footer-column-2 w-form">
