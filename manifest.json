@@ -13,17 +13,17 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://usaireiki.co.za/usaifavicon.png",
+      "src": "https://usaireiki.co.za/appfavicon.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "https://usaireiki.co.za/usaifavicon.png",
+      "src": "https://usaireiki.co.za/appfavicon.png",
       "type": "image/png",
       "sizes": "256x256"
     },
 {
-      "src": "https://usaireiki.co.za/usaifavicon.png",
+      "src": "https://usaireiki.co.za/appfavicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
