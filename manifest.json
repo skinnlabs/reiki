@@ -7,7 +7,7 @@
   "orientation": "portrait-primary",
   "scope": "/",
   "short_name": "Usai Reiki",
-  "start_url": "/login",
+  "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
