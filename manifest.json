@@ -1,0 +1,33 @@
+{
+  "background_color": "#ffffff",
+  "description": "Usai Reiki is a holistic, personal wellness improvement platform and counseling practice created to help you live your best life.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Usai Reiki - Holistic Wellness Platform",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Usai Reiki",
+  "start_url": "/login",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://usaireiki.co.za/usaifavicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://usaireiki.co.za/usaifavicon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+{
+      "src": "https://usaireiki.co.za/usaifavicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+
+  ],
+  "shortcuts": []
+}
